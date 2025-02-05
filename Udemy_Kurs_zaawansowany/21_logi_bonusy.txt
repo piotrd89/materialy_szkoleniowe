@@ -1,0 +1,21 @@
+--------------------
+START: 2023-08-04T15:08:31.511177
+Wywo造wana funkcja: ChangeSalary 
+Wykorzystane parametry: Kowalski 20000
+is_bonus=TrueWYNIK: 20000
+--------------------
+START: 2023-08-04T15:09:02.377643
+Wywo造wana funkcja: ChangeSalary 
+Wykorzystane parametry: Kowalski 20000 True
+WYNIK: 20000
+--------------------
+START: 2023-08-04T15:10:08.115165
+Wywo造wana funkcja: ChangeSalary 
+Wykorzystane parametry: Domagala 20000 True
+WYNIK: 20000
+--------------------
+START: 2023-08-04T15:10:52.132793
+Wywo造wana funkcja: ChangeSalary 
+Wykorzystane parametry: Domagala 50000
+is_bonus=True
+WYNIK: 50000

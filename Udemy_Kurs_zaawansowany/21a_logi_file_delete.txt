@@ -1,0 +1,4 @@
+Czas wykonania akcji: 2023-08-04 16:06:59
+Akcja FILE_DELETE wykonana na pliku C:\Users\piter\Kurs_zaawansowany\dummy_file.txt
+Czas wykonania akcji: 2023-08-04 16:06:59
+Akcja FILE_DELETE wykonana na pliku C:\Users\piter\Kurs_zaawansowany\dummy_file.txt

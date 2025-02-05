@@ -1,0 +1,12 @@
+--------------------
+START: 2023-08-04T14:56:15.903096
+Wywo³ywana funkcja: ChangeSalary 
+Wykorzystane parametry:
+Kowalski 20000
+is_bonus=TrueWYNIK: 20000
+--------------------
+START: 2023-08-04T15:01:55.810171
+Wywo³ywana funkcja: ChangeSalary 
+Wykorzystane parametry:
+Kowalski 20000
+is_bonus=TrueWYNIK: 20000

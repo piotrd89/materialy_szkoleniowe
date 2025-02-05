@@ -1,0 +1,6 @@
+Czas wykonania akcji: 2023-08-04 16:06:21
+Akcja FILE_CREATE wykonana na pliku c:\temp\dummy_file.txt
+Czas wykonania akcji: 2023-08-04 16:06:59
+Akcja FILE_CREATE wykonana na pliku C:\Users\piter\Kurs_zaawansowany\dummy_file.txt
+Czas wykonania akcji: 2023-08-04 16:06:59
+Akcja FILE_CREATE wykonana na pliku C:\Users\piter\Kurs_zaawansowany\dummy_file.txt

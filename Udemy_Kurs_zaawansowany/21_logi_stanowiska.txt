@@ -1,0 +1,20 @@
+--------------------
+START: 2023-08-04T15:08:31.507534
+Wywo造wana funkcja: ChangePosition 
+Wykorzystane parametry: Kowalski Sprzedawca
+WYNIK: Sprzedawca
+--------------------
+START: 2023-08-04T15:09:02.376465
+Wywo造wana funkcja: ChangePosition 
+Wykorzystane parametry: Kowalski Sprzedawca
+WYNIK: Sprzedawca
+--------------------
+START: 2023-08-04T15:10:08.113680
+Wywo造wana funkcja: ChangePosition 
+Wykorzystane parametry: Domagala Kierownik
+WYNIK: Kierownik
+--------------------
+START: 2023-08-04T15:10:52.128885
+Wywo造wana funkcja: ChangePosition 
+Wykorzystane parametry: Domagala Dyrektor
+WYNIK: Dyrektor
